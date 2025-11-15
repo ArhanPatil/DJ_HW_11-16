@@ -1,0 +1,47 @@
+GIT HOMEWORK DESCRIPTION
+========================
+
+Objective:
+---------
+To master version control using Git, including repository management, branching strategies, commit practices, collaboration workflows, and practical application of distributed version control concepts.
+
+Purpose:
+--------
+This Git homework is designed to:
+- Understand the fundamentals of version control systems
+- Learn how to initialize, manage, and maintain repositories
+- Practice creating meaningful commits and writing clear commit messages
+- Develop proficiency with branching and merging workflows
+- Master collaboration techniques for working with teams
+- Build confidence in using Git for real-world projects
+- Prepare for professional development environments
+
+Key Topics to Cover:
+--------------------
+1. Git basics (init, clone, status, add, commit)
+2. Branching and branch management
+3. Merging and resolving conflicts
+4. Remote repositories and push/pull operations
+5. Collaborative workflows (pull requests, code review)
+6. Git history and log navigation
+7. Undoing changes and fixing mistakes
+8. Tagging and releases
+
+Guidelines:
+-----------
+1. Create clear, descriptive commit messages
+2. Make logical, focused commits for each feature or fix
+3. Use branches for organizing work
+4. Regularly push changes to the remote repository
+5. Review commit history to understand project evolution
+6. Practice collaborative workflows with peers
+7. Document your learning process
+
+Expected Outcomes:
+------------------
+After completing this Git homework, you will:
+- Confidently use Git for version control in projects
+- Understand how to collaborate effectively with other developers
+- Be able to manage code changes and maintain clean project history
+- Know how to recover from common Git mistakes
+- Be prepared for professional development workflows

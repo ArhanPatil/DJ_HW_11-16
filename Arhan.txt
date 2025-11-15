@@ -1,0 +1,6 @@
+GIT HOMEWORK SUBMISSION - ARHAN
+==============================
+
+This assignment demonstrates my understanding and practical application of Git version control concepts, including repository management, branching workflows, collaborative practices, and best practices in modern software development.
+
+Through this homework, I have worked on implementing and mastering key Git skills to prepare for professional development environments.
